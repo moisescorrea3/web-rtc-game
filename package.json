@@ -1,0 +1,8 @@
+{
+  "name": "web-rtc-game",
+  "version": "1.0.0",
+  "description": "A simple game using web RTC api",
+  "main": "index.js",
+  "author": "Moises Correa (correa.moises3@gmail.com)",
+  "license": "MIT"
+}
